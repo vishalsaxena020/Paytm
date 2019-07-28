@@ -1,0 +1,6 @@
+com\paytm\qa\pages\HomePage.class
+com\paytm\qa\pages\LoginPage.class
+com\paytm\qa\pages\SingnupPage.class
+com\paytm\qa\utilities\TestUtil.class
+com\paytm\qa\pages\MoviesPage.class
+com\paytm\qa\base\TestBase.class

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37751" started-at="2019-07-27T13:26:27Z" finished-at="2019-07-27T13:27:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37751" started-at="2019-07-27T13:26:27Z" finished-at="2019-07-27T13:27:05Z">
+      <class name="com.paytm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="loadingpage()[pri:0, instance:com.paytm.qa.testcases.LoginPageTest@61832929]" name="loadingpage" is-config="true" duration-ms="15653" started-at="2019-07-27T13:26:27Z" finished-at="2019-07-27T13:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadingpage -->
+        <test-method status="PASS" signature="LoginMethod()[pri:0, instance:com.paytm.qa.testcases.LoginPageTest@61832929]" name="LoginMethod" duration-ms="22054" started-at="2019-07-27T13:26:43Z" finished-at="2019-07-27T13:27:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginMethod -->
+      </class> <!-- com.paytm.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
